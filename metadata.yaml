@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3495
     wikipedia: http://en.wikipedia.org/wiki/Horace_Annesley_Vachell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23154#The-Hill--A-Romance-of-Friendship
 gutenberg_issued: '2007-10-23'
 gutenberg_type: Text
 identifiers:
