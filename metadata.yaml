@@ -1,0 +1,32 @@
+_repo: The-Hill--A-Romance-of-Friendship_23154
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vachell, Horace Annesley
+    birthdate: 1861
+    deathdate: 1955
+    gutenberg_agent_id: '3495'
+    url: http://www.gutenberg.org/2009/agents/3495
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Annesley_Vachell
+description: ''
+gutenberg_issued: '2007-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- England -- Juvenile fiction'
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Harrow School -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Schools -- England -- Juvenile fiction'
+- !lcsh 'Snobs and snobbishness -- Juvenile fiction'
+title: 'The Hill: A Romance of Friendship'
+url: http://www.gutenberg.org/ebooks/23154
